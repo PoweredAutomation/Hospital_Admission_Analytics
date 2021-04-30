@@ -30,7 +30,7 @@ well_type_options = [
 
 # Load data
 
-df_hosp=pd.read_csv(r"data\final.csv")
+df_hosp=pd.read_csv(r"data/final.csv")
 df_hosp=df_hosp.head(100000)
 
 
