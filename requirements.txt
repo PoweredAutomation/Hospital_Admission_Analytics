@@ -1,0 +1,12 @@
+gunicorn
+dash
+dash-bootstrap-components
+dash-core-components
+pandas
+plotly-express
+dash-daq
+dash-html-components
+numpy
+xlrd
+dash-extensions
+pybase64
